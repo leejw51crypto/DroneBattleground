@@ -1,2 +1,3 @@
 # DroneBattleground
 drone
+compile
