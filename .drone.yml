@@ -16,3 +16,4 @@ steps:
   - pwd
   - cd hello
   - cargo build
+  - cargo test
