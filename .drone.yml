@@ -12,6 +12,7 @@ steps:
   - export LIBRARY_PATH=$HOME/lib
   - export PATH=$HOME/.cargo/bin:$HOME/.local/bin:$PATH
   - export PKG_CONFIG_PATH=$HOME/lib/pkgconfig
+  - . /root/.profile
   - pwd
   - cd hello
   - cargo build
